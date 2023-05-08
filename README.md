@@ -1,5 +1,5 @@
 <br/>
-<img src="src/assets/main-logo-label.svg" width="420" >
+<img src="src/assets/fan.svg" width="420" >
 <br />
 
 ## Quickstart
