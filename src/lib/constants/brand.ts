@@ -1,0 +1,12 @@
+export const DISCORD = "https://discord.gg/";
+export const DISCORD_SUPPORT = "https://discord.com/channels";
+export const GITHUB = "https://github.com";
+export const TWITTER = "https://twitter.com";
+export const TELEGRAM = "https://t.me/";
+export const NOTION = "https://www.notion.so";
+export const MEDIUM = "https://medium.com/";
+export const EMAIL = "mailto:contac";
+export const DOCS = " https://";
+export const PROTOCOL = " https://";
+export const GOVERNANCE = "https://";
+export const PRIVACYPOLICY = "https://";
