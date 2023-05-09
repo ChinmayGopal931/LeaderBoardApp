@@ -45,9 +45,9 @@ const Navbar = () => {
       title: "Discover",
     },
     {
-      path: appRoutes.portfolio_path,
+      path: appRoutes.user_path,
       isDisabled: false,
-      title: "My Portfolio",
+      title: "Create User",
     },
   ];
 

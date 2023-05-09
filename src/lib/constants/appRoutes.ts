@@ -3,7 +3,7 @@ export const appRoutes: Record<string, string> = {
   create_path: "/create",
   discover_path: "/discover",
   staking_path: "/staking",
-  portfolio_path: "/portfolio",
+  user_path: "/user",
   vault_path: "/vault",
   privacy_path: "/privacypolicy",
   toc: "/terms-of-service",

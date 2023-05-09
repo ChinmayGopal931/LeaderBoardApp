@@ -83,6 +83,8 @@ const SearchTable = (props: any) => {
 
   const handleClick = (properties: any) => {};
 
+  console.log("dede", data, props);
+
   return (
     <div className="flex flex-col w-full min-h-[400px]">
       <DetailBaseTable tableName="" options={{ columns, data }} />

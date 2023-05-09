@@ -4,6 +4,7 @@ import { appRoutes } from "../lib/constants/appRoutes";
 
 // Components
 import Discover from "./Discover/Discover";
+import MyPortfolio from "./Portfolio/Portfolio";
 
 const RouterConfig = () => {
   return (
@@ -11,6 +12,7 @@ const RouterConfig = () => {
       <Routes>
         <Route path={appRoutes.home_path} element={<Discover />} />
         <Route path={appRoutes.discover_path} element={<Discover />} />
+        <Route path={appRoutes.user_path} element={<MyPortfolio />} />
       </Routes>
       <Outlet />
     </div>
